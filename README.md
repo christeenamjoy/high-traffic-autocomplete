@@ -9,6 +9,9 @@ High-traffic Autocomplete (React + TS) implementing:
  6) Prefetch popular queries on idle + graceful UX
 
 
+
+
+
 1) Component API (props)
 
 “I expose an API that separates input value control, fetching, rendering, and selection.”
